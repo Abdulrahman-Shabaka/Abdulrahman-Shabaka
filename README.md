@@ -44,8 +44,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-shabaka&show_icons=true&locale=en&layout=compact" alt="abdulrahman-shabaka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-shabaka&show_icons=true&locale=en&&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-shabaka&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-shabaka&" alt="abdulrahman-shabaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-shabaka&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
