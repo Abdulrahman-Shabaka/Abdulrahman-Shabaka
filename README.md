@@ -1,19 +1,15 @@
-
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="400"/>
-</div>
- -->
-
-
+<div align="Center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%237631B4&size=23&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C;I+am+Abdulrahman+Hassan;Communication+and+Electronics+;Engineer;But;Software+Engineer++is+my+;other+job)](https://git.io/typing-svg)
+</div?
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%237631B4&size=23&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C;I+am+Abdulrahman+Hassan;Communication+and+Electronics+;Engineer;But;Software+Engineer++is+my+;other+job)](https://git.io/typing-svg)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-shabaka&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-shabaka" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-shabaka&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-shabaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-shabaka" alt="abdulrahman-shabaka" /></a> </p>
 
