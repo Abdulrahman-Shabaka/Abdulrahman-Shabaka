@@ -44,7 +44,7 @@
 
 
 <div class="column"  align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-shabaka&show_icons=true&locale=en&&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahman-shabaka&show_icons=true&locale=en&&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-shabaka&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="abdulrahman-shabaka" /></p>
 
