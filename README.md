@@ -1,18 +1,18 @@
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="400"/>
 </div>
+ -->
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Abdulrahman Hassan</h1>
-<h3 align="center">Software Engineer (focusing on mobile and dot-net)</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<h1 align="center">Hi 👋, I'm Abdulrahman Hassan</h1>
+<h3 align="center">Software Engineer (focusing on mobile and dot-net)</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahman-shabaka&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman-shabaka" /> </p>
 
