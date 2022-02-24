@@ -9,8 +9,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Abdulrahman Hassan</h1>
-<h3 align="center">Software Engineer (focusing on mobile and dot-net)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%237631B4&size=23&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C;I+am+Abdulrahman+Hassan;Communication+and+Electronics+;Engineer;But;Software+Engineer++is+my+;other+job)](https://git.io/typing-svg)
 
 
 
