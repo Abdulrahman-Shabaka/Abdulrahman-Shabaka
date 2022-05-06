@@ -24,13 +24,13 @@
 
 - 🔭 I’m currently working on **lab delivery**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently freelancing **flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdulrahman-Shabaka](https://github.com/Abdulrahman-Shabaka)
 
 - 💬 Ask me about **c#, flutter, dot-net**
 
-- 📫 How to reach me **Abdulrahmanshabaka98@outlook.com WhatsApp(+201149714771)**
+- 📫 How to reach me **Abdulrahmanshabaka98@outlook.com WhatsApp(+201149714771 or +201032822155)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ALiNNb37SGebacheHx4c4TJ7SObzOHOy/view?usp=sharing](https://drive.google.com/file/d/1ALiNNb37SGebacheHx4c4TJ7SObzOHOy/view?usp=sharing)
 
