@@ -32,7 +32,6 @@
 
 - 📫 How to reach me **Abdulrahmanshabaka98@outlook.com WhatsApp(+201149714771 or +201032822155)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ALiNNb37SGebacheHx4c4TJ7SObzOHOy/view?usp=sharing](https://drive.google.com/file/d/1ALiNNb37SGebacheHx4c4TJ7SObzOHOy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
