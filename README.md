@@ -22,13 +22,13 @@
 
 
 
-- 🔭 I’m currently working on **lab delivery**
+- 🔭 I’m currently working on **Clinic Project**
 
-- 🌱 I’m currently freelancing **flutter**
+- 🌱 I’m currently **DotNet Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdulrahman-Shabaka](https://github.com/Abdulrahman-Shabaka)
 
-- 💬 Ask me about **c#, flutter, dot-net**
+- 💬 Ask me about **c#, Dotnet, Angular**
 
 - 📫 How to reach me **Abdulrahmanshabaka98@outlook.com WhatsApp(+201149714771 or +201032822155)**
 
